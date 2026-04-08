@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Ignacio Emanuel Pereyra
+- Vivo en Villa Tesei - Hurlingham
 
 
 ### Otra Información
